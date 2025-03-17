@@ -3,10 +3,13 @@
 **HomEconomY** es una aplicación de gestión de gastos que te ayuda a registrar, categorizar y analizar tus gastos, brindándote una visión clara de en qué estás gastando de más.  
 
 ## 🚀 Características  
-- 📊 **Registro de gastos:** Agrega gastos fácilmente y asiénales una categoría.  
+- 📊 **Registro de gastos:** Agrega gastos fácilmente y asignales una categoría.  
 - 📅 **Historial detallado:** Consulta tus gastos organizados por fecha.  
 - 🎯 **Análisis financiero:** Visualiza en qué categorías gastas más para mejorar tus finanzas.  
 - 📧 **Inicio de sesión sencillo:** Puedes registrarte con cualquier correo electrónico, sin necesidad de verificación.  
+
+## 📱 Capturas de Pantalla
+<a href="https://ibb.co/DDRrTMZc"><img src="https://i.ibb.co/DDRrTMZc/Imagen-de-Whats-App-2025-03-17-a-las-09-20-49-015e7388.jpg" alt="Imagen-de-Whats-App-2025-03-17-a-las-09-20-49-015e7388" border="0"></a> <a href="https://ibb.co/wZGzbPYJ"><img src="https://i.ibb.co/wZGzbPYJ/Imagen-de-Whats-App-2025-03-17-a-las-09-20-49-024ec822.jpg" alt="Imagen-de-Whats-App-2025-03-17-a-las-09-20-49-024ec822" border="0"></a> <a href="https://ibb.co/bR5XG7JF"><img src="https://i.ibb.co/bR5XG7JF/Imagen-de-Whats-App-2025-03-17-a-las-09-20-49-b62169cb.jpg" alt="Imagen-de-Whats-App-2025-03-17-a-las-09-20-49-b62169cb" border="0"></a> <a href="https://ibb.co/GQNkvhNR"><img src="https://i.ibb.co/GQNkvhNR/Imagen-de-Whats-App-2025-03-17-a-las-09-20-50-9b299b93.jpg" alt="Imagen-de-Whats-App-2025-03-17-a-las-09-20-50-9b299b93" border="0"></a>
 
 ## 🛠 Tecnologías  
 - **Framework:** Flutter (Dart)  
